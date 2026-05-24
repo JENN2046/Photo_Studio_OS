@@ -6,3 +6,10 @@ dist
 .env.local
 .env.*.local
 .DS_Store
+tsconfig.tsbuildinfo
+package-lock.json
+
+# Nested standalone repositories
+Photo_Studio_OS_Backend/
+Photo_Studio_OS_Frontend/
+Photo_Studio_OS_Control/
